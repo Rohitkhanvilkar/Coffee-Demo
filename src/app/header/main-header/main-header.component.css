@@ -1,0 +1,22 @@
+.header-main{
+    border: 1px solid black;
+    height: 70px;
+    background-color: #fff;
+    display: flex;
+   cursor: pointer;
+}
+
+.flex{
+    text-indent: 2em;
+    width: 1150px;
+    color: lightslategray;
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+
+.space{
+    text-indent: 2em;
+    padding-top: 25px;
+    
+}
