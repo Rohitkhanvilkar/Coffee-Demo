@@ -1,0 +1,33 @@
+.contact_info_main{
+  width:1309px;
+  height:220px;
+  padding:0 20px;
+  border-bottom: 0.5px solid lightgray;
+  background-color: #ffffff;
+}
+ul{
+  display:flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 190px;
+  padding:0;
+  margin:0;
+  list-style-type:none;
+}
+.contact_info_content{
+  width:1309px;
+  height:190px;
+  display:flex;
+  justify-content:space-between;
+  padding:10px 0 20px;
+}
+/* .rotate{
+  transform: rotate(90deg);
+} */
+.copyright_main{
+  width:1349px;
+  height:37px;
+  padding:12px 0;
+  display: flex;
+  justify-content: space-between;
+}
