@@ -1,0 +1,24 @@
+
+
+.ship,.position,.wish{
+   
+    width: 1150px;
+    height:30px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #553c2e;
+    color: antiquewhite;
+    text-transform: capitalize;
+    font-size: .875rem;
+    cursor: pointer;
+}
+
+.position{
+    width: 100px;
+}
+
+.wish{
+    width: 150px;
+    border-left: 1px solid white;
+}
